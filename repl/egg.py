@@ -1,0 +1,6 @@
+like_thing = input("what do you like?: ")
+hate_thing = input("what do you hate?: ")
+family = input("what's your mom's name?: ")
+friends = input("what's your best friend's name?: ")
+print()
+print("you walk down a weird ass hallway but find a", like_thing, "murking about in the shadows. suddenly, you find a", hate_thing,". just around the corner, you see", family, "being told endless jokes by your old friend",friends,"! what will you do in this silly ass adventure...")
